@@ -1,0 +1,12 @@
+#penaltyData {
+	position: absolute;
+	border-radius: 25px;
+	background: #FFF628;
+	left: -100%;
+	height: 28px;
+	width: 236px;
+	border: 1px ridge #969696;
+	text-algin: center;
+	text-transform: uppercase;
+	font-family: ‘Open Sans’;
+}
